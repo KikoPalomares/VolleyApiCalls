@@ -21,3 +21,5 @@ https://kikopalomares.com
         // Add the request to the RequestQueue.
         queue.add(stringRequest)
 ```
+
+Puedes ver el video donde se explica como hacer este codigo: https://youtu.be/mJYwYc51IKI
